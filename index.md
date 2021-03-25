@@ -2,10 +2,10 @@ Sruthi Rachakonda
 ============
 
 -------------------     ----------------------------
-Email                      sruthirachakonda2002@gmail.com
-stid                         y18it086
-phone number                 7569147105
-LinkedIn                    [LinkedIn](https://www.linkedin.com/login)
+* Email    :                  sruthirachakonda2002@gmail.com
+* stid          :               y18it086
+* phone number   :              7569147105
+* LinkedIn        :            [LinkedIn](https://www.linkedin.com/login)
 -------------------     ----------------------------
 
 Education
